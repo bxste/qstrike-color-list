@@ -1,0 +1,1 @@
+# qstrike-color-list
